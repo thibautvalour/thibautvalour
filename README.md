@@ -1,1 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-thibautvalour&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?thibautvalour=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
