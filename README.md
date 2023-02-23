@@ -2,9 +2,9 @@
 
 ## About Me :
 
-- 🎓 Currently pursuing a Master of Engineering at ENSAE Paris (expected graduation in 2023)
-- 🎓 Also pursuing a Research Master at Institut Polytechnique de Paris (expected graduation in 2023)
-- 🏢 Previously a Research Scientist Intern for 6 months at the [French Atomic Energy Commission (CEA)](https://www.cea.fr/)
+- 🎓 Currently pursuing a Master of Engineering at **ENSAE Paris** (expected graduation in 2023)
+- 🎓 Also pursuing a Research Master at **Institut Polytechnique de Paris** (expected graduation in 2023)
+- 🏢 Previously a Research Scientist Intern for 6 months at the [French Atomic Energy Commission **(CEA)**](https://www.cea.fr/)
 - 🏢 Previously a Data Scientist Intern for 6 months at [Humanitics](https://www.humanitics.ai/)
 - 🏡 Based in the beautiful city of Paris
 
