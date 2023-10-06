@@ -2,11 +2,12 @@
 
 ## About Me :
 
-- 🎓 Currently pursuing a Master of Engineering at **ENSAE Paris** (graduation in 2023)
-- 🎓 Also pursuing a Research Master at **Institut Polytechnique de Paris** (graduation in 2023)
-- 🏢 Previously a Research Scientist Intern for 6 months at the [French Atomic Energy Commission **(CEA)**](https://www.cea.fr/)
-- 🏢 Previously a Data Scientist Intern for 6 months at [Humanitics](https://www.humanitics.ai/)
-- 🏡 Based in Paris
+- 🎓 Completed my Master of Engineering studies at ENSAE Paris (official graduation in 2023)
+- 🎓 Also completed my Research Master studies at Institut Polytechnique de Paris (official graduation in 2023)
+- 🚙 Currently a Data Scientist Intern at BMW Group in the Web Analytics & E-Commerce team
+- 🏢 Previously a Research Scientist Intern for 6 months at the French Atomic Energy Commission (CEA)
+- 🏢 Previously a Data Scientist Intern for 6 months at Humanitics
+- 🏡 Based in Munich, looking for an opportunity in Paris for 2024
 
-My passion lies in tackling data science and machine learning problems, with a keen interest in research that utilizes them. I have implemented and summarized several research papers in areas such as Reinforcement Learning, Natural Language Processing, Bayesian Statistics and Fairness in Machine Learning, among others. You can explore my work in the pinned repositories below.
+My passion lies in tackling data science and machine learning problems. I have implemented and summarized several research papers in areas such as Reinforcement Learning, Natural Language Processing, Bayesian Statistics and Fairness in Machine Learning, among others. You can explore my work in the pinned repositories below.
 <br>
